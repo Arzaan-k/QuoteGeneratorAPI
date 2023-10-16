@@ -1,1 +1,1 @@
-sdsxx
+python manage.py runserver
